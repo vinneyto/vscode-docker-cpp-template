@@ -2,7 +2,7 @@
 
 ## vscode
 
-    Attach to running container
+    Reopen in container
 
 ## run
 
